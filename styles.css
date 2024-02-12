@@ -1,0 +1,56 @@
+.container{
+  justify-content: center;
+  align-items: center;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+  
+
+}
+
+.submit{
+  display: inline-flex;
+  flex-direction: column;
+
+}
+.contact form{
+width: 100%;
+}
+form input, form textarea{
+width: 100%;
+border: 0;
+outline: none;
+background: whitesmoke;
+padding: 15px;
+margin: 15px 0;
+
+}
+.talk{
+  justify-content: center;
+  align-items: center;
+  padding: 15px 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+  display: flex;}
+
+  .submit{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(124, 124, 132);
+  border-radius: 7px;
+  color: white;
+  
+  }
+  #msg{
+color: black;
+margin-top: 10px;
+display: block;
+  }
+
+
+
